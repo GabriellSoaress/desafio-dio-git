@@ -1,1 +1,11 @@
 O Git Bash é um terminal extendido pra otimizar o uso do git.
+
+-- Comandos uteis 
+	1 - git config --global user.name "Name"
+	2 - git config --global user.email "Email"
+	3 - git config --list (lista as informações)
+	4 - git status (apresenta a branch e status)
+	5 - git add . ou git add -A (adiciona todos os novos arquivos porém de modo local)
+	6 - git commit -m "Descrição do commit aqui" (adiciona a descrição antes de mandar para o GitHub)
+	7 - git push origin main (envia para a nuvem)
+	8 - clear (limpa tudo)
