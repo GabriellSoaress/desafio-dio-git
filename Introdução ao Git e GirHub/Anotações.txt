@@ -9,3 +9,8 @@ O Git Bash é um terminal extendido pra otimizar o uso do git.
 	6 - git commit -m "Descrição do commit aqui" (adiciona a descrição antes de mandar para o GitHub)
 	7 - git push origin main (envia para a nuvem)
 	8 - clear (limpa tudo)
+					*Ordem para mandar para a nuvem*
+						git add . ou git add -A
+						git commit -m "Descrição"
+						git status (para verificar)
+						git push origin main
